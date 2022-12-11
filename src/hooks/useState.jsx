@@ -1,6 +1,8 @@
 import {useState} from 'react';
 import './hooks.css'
 
+//Interactive demo from webDevSimplified https://youtu.be/O6P86uwfdR0
+
 const UseStateDemo = ()=>{
     const [count, setCount] = useState(()=>{ return 4}) //passing a callback in to useState ensures it only runs once
     
