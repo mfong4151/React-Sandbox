@@ -15,7 +15,6 @@ const UseEffectDemo1 = ()=>{
 
     useEffect(()=> {
 
-
     }, resourceType)
 
     return(

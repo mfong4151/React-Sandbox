@@ -1,11 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
-import UseEffectDemo from './hooks/useEffect'
-import UseStateDemo from './hooks/useState'
+import UseStateDemo2 from "./hooks/useState2";
 
 function App() {
   return (
-    <UseEffectDemo />
+    <UseStateDemo2 />
   );
 }
 

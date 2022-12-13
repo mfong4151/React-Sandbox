@@ -18,9 +18,9 @@ const UseStateDemo = ()=>{
     return(
     
         <>
-        <button onClick={decrimentCount}>-</button>
-        <span>{count}</span>
-        <button onClick={incrimentCount}>+</button>
+            <button onClick={decrimentCount}>-</button>
+            <span>{count}</span>
+            <button onClick={incrimentCount}>+</button>
         </>
     )
 
