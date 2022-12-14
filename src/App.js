@@ -1,8 +1,8 @@
-import UseStateDemo2 from "./hooks/useState2";
+import { UseContextExample } from "./hooks/useContext";
 
 function App() {
   return (
-    <UseStateDemo2 />
+    <UseContextExample />
   );
 }
 
